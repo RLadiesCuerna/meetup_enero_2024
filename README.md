@@ -7,13 +7,13 @@ En esta reunión aprenderemos a realizar pruebas estadísticas fáciles y rápid
 
 ## TEMARIO
 
-Repaso de las funciones select, filter y group_by de dplyr
-Obtención de estadísticas de resumen
-Flujos de análisis para las pruebas t y ANOVA
-  Comprobación de los supuestos de la prueba
-  Aplicación de las pruebas
-  Graficación de resultados
-Análisis para datos no paramétricos: Pruebas de Wilcoxon y Kruskal-Wallis
++ Repaso de las funciones select, filter y group_by de dplyr
++ Obtención de estadísticas de resumen
++ Flujos de análisis para las pruebas t y ANOVA
+  + Comprobación de los supuestos de la prueba
+  + Aplicación de las pruebas
+  + Graficación de resultados
++ Análisis para datos no paramétricos: Pruebas de Wilcoxon y Kruskal-Wallis
 
 ## Fecha 
 Jueves 11 de enero de 2024
