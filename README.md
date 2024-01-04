@@ -1,4 +1,4 @@
-# Estadística fácil con R y dplyr
+# Estadística fácil con R y dplyr: t, ANOVA y más
 
 
 ¡Les damos la bienvenida!
